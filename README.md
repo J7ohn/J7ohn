@@ -5,9 +5,9 @@ Olá, bem vindo ao meu perfil! Aqui, você irá encontrar repositórios de cria�
 
   <a href="https://github.com/J7ohn">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J7ohn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=J7ohn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J7ohn&layout=compact&langs_count=7&theme=dark"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J7ohn&layout=compact&langs_count=7&theme=dark"/>
 
 </div>
 
