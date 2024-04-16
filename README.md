@@ -14,7 +14,7 @@ Olá, bem vindo ao meu perfil! Aqui, você irá encontrar repositórios de cria�
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3D%25C3%25ADcone%2Bde%2Bjava&psig=AOvVaw3FrJy0KV8kbe3LEUqBTgFI&ust=1713379251518000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiCl6exx4UDFQAAAAAdAAAAABAE">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Java/">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   
